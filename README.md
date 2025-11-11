@@ -24,7 +24,7 @@ The goal of the internship was to **build, deploy, and automate end-to-end appli
 
 ### **Task 01 – Ansible for Docker Configuration**
 - **GitHub Repository:** [task01-ansible-docker-config](https://github.com/Amanrajraw0/task01-ansible-docker-config)
-- **Live Project URL:** [http://13.50.241.254/](http://13.50.241.254/)
+- **Live Project URL:** [http://13.48.196.154/](http://13.48.196.154/)
 - **Description:**
   - Automated Docker installation and container setup using **Ansible Playbook**.  
   - Configured roles for Docker installation, image pulling, and container management to streamline deployment.
